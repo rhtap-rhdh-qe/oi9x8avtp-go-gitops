@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: oi9x8avtp-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/oi9x8avtp-go
